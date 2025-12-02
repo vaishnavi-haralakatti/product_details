@@ -9,7 +9,7 @@ def format_product_details(product_id, name, quantity, price):
         f"Product ID: {product_id}\n"
         f"Product Name: {name}\n"
         f"Quantity: {quantity}\n"
-        f"Price: ₹{price:.2f}"
+        f"Price: rs {price:.2f}"
     )
 
 
