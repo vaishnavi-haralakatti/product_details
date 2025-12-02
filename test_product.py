@@ -10,7 +10,7 @@ def test_format_product_details():
         "Product ID: 101\n"
         "Product Name: Keyboard\n"
         "Quantity: 5\n"
-        "Price: ₹499.99"
+        "Price: rs 499.99"
     )
 
     assert result == expected
